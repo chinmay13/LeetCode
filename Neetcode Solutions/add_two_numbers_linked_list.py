@@ -11,8 +11,6 @@ Return the sum of the two numbers as a linked list.
 
 Example 1:
 
-
-
 Input: l1 = [1,2,3], l2 = [4,5,6]
 
 Output: [5,7,9]
